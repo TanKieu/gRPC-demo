@@ -1,0 +1,4 @@
+F:\gRPC\demoGRPC-Maven\target\generated-sources\protobuf\java\com\tankieu\HelloProto.java
+F:\gRPC\demoGRPC-Maven\src\main\java\client\HelloClient.java
+F:\gRPC\demoGRPC-Maven\src\main\java\server\HelloServiceImpl.java
+F:\gRPC\demoGRPC-Maven\target\generated-sources\protobuf\grpc-java\com\tankieu\HelloServiceGrpc.java
